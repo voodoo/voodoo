@@ -1,16 +1,15 @@
-### Hi there 👋
+# Me, me me!
 
-<!--
-**voodoo/voodoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me tell you something about me.
 
-Here are some ideas to get you started:
+I'm a full stack developer and have been so for almost 15 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ruby on Rails is my weapon of choice, though lately I've been spending a lot of time with AI, prompts and Static site generators.
+
+## Things I like
+
+- web technologies of all sorts
+- art - especially abstract
+- ancient history
+- solar
+- turtles
