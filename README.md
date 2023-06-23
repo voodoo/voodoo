@@ -1,6 +1,9 @@
 # Me, me me!
 
-I'm a full stack developer and have been so for almost 15 years.
+I'm a full stack developer and have been so for almost 15 years. 
+
+- (See my [resume](https://www.vudmaska.com/resume.html))
+- Cover letter
 
 Ruby on Rails is my weapon of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
 
