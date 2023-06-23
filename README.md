@@ -4,7 +4,7 @@ I'm a full stack developer and have been so for almost 15 years.
 
 Ruby on Rails is my weapon of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
 
-## Things I like
+## Things I like (see my [wiki](https://github.com/voodoo/voodoo.github.io/wiki))
 
 - web technologies of all sorts
 - art - especially abstract
