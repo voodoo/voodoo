@@ -13,5 +13,5 @@ Ruby on Rails is my weapon of choice, though lately I've been spending a lot of 
 - art - especially abstract
 - [guitars](https://www.vudmaska.com/site-sharktail/) / music
 - ancient history
-- [solar]([https://github.com/voodoo/static-solar-plan/tree/gh-pages])
+- [solar][https://github.com/voodoo/static-solar-plan/tree/gh-pages]
 - turtles
