@@ -1,6 +1,6 @@
 # Me, me me!
 
-I've been a full stack developer for more than almost 15 years. 
+I've been a full stack developer for more than 15 years. 
 
 - (See my [resume](https://www.vudmaska.com/resume.html))
 - Cover letter
