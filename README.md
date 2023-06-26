@@ -1,5 +1,7 @@
 # Me, me [me](https://github.com/voodoo/voodoo.github.io/wiki)!
 
+![question everything](https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg)
+
 I've been a full stack developer for more than 15 years. 
 
 - See my [resume](https://voodoo.github.io/resume)
