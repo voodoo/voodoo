@@ -1,7 +1,7 @@
 <!-- 
 # Question Everything
-<img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="100%" />
 -->
+<img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" style="float:right" />
 
 # Me, me [me](https://github.com/voodoo/voodoo.github.io/wiki)!
 
