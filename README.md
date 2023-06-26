@@ -1,9 +1,9 @@
 <!-- 
 # Question Everything
 -->
-<img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" style="float:right" />
 
-# Me, me [me](https://github.com/voodoo/voodoo.github.io/wiki)!
+
+# Me, me [me](https://github.com/voodoo/voodoo.github.io/wiki)! <img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" />
 
 I've been a full stack developer for more than 15 years. 
 
