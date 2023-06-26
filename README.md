@@ -1,6 +1,6 @@
 # Me, me [me](https://github.com/voodoo/voodoo.github.io/wiki)!
 
-![question everything](https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg)
+<img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="100%" />
 
 I've been a full stack developer for more than 15 years. 
 
