@@ -25,4 +25,4 @@ Ruby on Rails is my weapon of choice, though lately I've been spending a lot of 
 - Turtles
 
 
- <img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="50%" />
+ <img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="100%" />
