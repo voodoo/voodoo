@@ -3,9 +3,7 @@
 -->
 
 
-# Me, me [me](https://github.com/voodoo/voodoo.github.io/wiki)!
-
- <img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="50%" />
+## Me, me [me](https://github.com/voodoo/voodoo.github.io/wiki)!
 
 I've been a full stack developer for more than 15 years. 
 
@@ -25,3 +23,6 @@ Ruby on Rails is my weapon of choice, though lately I've been spending a lot of 
 - [Ancient history](https://en.wikipedia.org/wiki/Younger_Dryas)
 - [Solar](http://voodoo.github.io/static-solar-plan)
 - Turtles
+
+
+ <img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="50%" />
