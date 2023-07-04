@@ -12,6 +12,12 @@ I've been a full stack developer for more than 15 years.
 
 Ruby on Rails is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
 
+- My best asset is my **interest**
+- I seek value - "how is this technology going to help me create value for myself and others?"
+- Finding the right tool for the job used to be the hardest part. Now, choosing, the right tool is hardest because of paradox of choice
+- I've got 20 years of experience **choosing** and implementing the right tools for the job
+
+
 ## Things I like
 
 - Web technologies of all sorts
