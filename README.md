@@ -32,6 +32,4 @@ Ruby on Rails is my tool of choice, though lately I've been spending a lot of ti
 - [Solar](http://voodoo.github.io/static-solar-plan)
 - Turtles
 
-https://github.com/voodoo/voodoo/blob/main/qe.svg
- <img alt="question everything" title="question everyhing" 
-   src="https://github.com/voodoo/voodoo/blob/main/qe.svg" width="100%" />
+<img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="100%" />
