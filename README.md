@@ -15,7 +15,8 @@ Ruby on Rails is my tool of choice, though lately I've been spending a lot of ti
 
 - My best asset is my **interest**
 - I seek value - "how is this technology going to help me create value for myself and others?"
-- Finding the right tool for the job used to be the hardest part. Now, choosing, the right tool is hardest because of paradox of choice
+- Finding the right tool for the job used to be the hardest part. Now, choosing, the right tool is hardest because of paradox of choice.
+- So I [choose people instead.](Looking-over-the-shoulders-of-giants)
 - I've got 20 years of experience **choosing** and implementing the right tools for the job
 
 
