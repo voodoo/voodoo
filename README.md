@@ -7,7 +7,7 @@
 
 I've been a full stack developer for more than 15 years. 
 
-- See my [html](https://voodoo.github.io/resume) resume or [PDF](https://voodoo.github.io/Resume.pdf) resume. [Vizrez](https://www.figma.com/proto/5dOrzBwm0Us7V9VxpcXBJq/Resume?page-id=0%3A1&type=design&node-id=2-73&viewport=199%2C630%2C0.34&t=AeEY4ZLOqPnErdft-1&scaling=min-zoom&starting-point-node-id=2%3A73&mode=design)
+- See my [html](https://voodoo.github.io/resume) resume or [PDF](https://voodoo.github.io/Resume.pdf) resume.
   
 - [Cover letter - (written by AI)](https://github.com/voodoo/voodoo.github.io/wiki/Cover-letter)
 
@@ -19,6 +19,12 @@ Ruby on Rails is my tool of choice, though lately I've been spending a lot of ti
 - So I choose people instead. [Looking-over-the-shoulders-of-giants.](https://github.com/voodoo/voodoo.github.io/wiki/Looking-over-the-shoulders-of-giants)
 - I've got 20 years of experience **choosing** and implementing the right tools for the job
 
+
+### Figma - my newest passion
+
+- [Vizrez](https://www.figma.com/proto/5dOrzBwm0Us7V9VxpcXBJq/Resume?page-id=0%3A1&type=design&node-id=2-73&viewport=199%2C630%2C0.34&t=AeEY4ZLOqPnErdft-1&scaling=min-zoom&starting-point-node-id=2%3A73&mode=design)
+- [Paradise Nursery Mobile mockup](https://www.figma.com/proto/EpBqr5D4kaKpB0UPYrLVCMWu/pardise-figma?page-id=0%3A1&type=design&node-id=12-237&viewport=713%2C149%2C0.23&t=LYzzcBjfHugS0CDN-1&scaling=scale-down&starting-point-node-id=2%3A358&mode=design)
+ 
 
 ## Things I like
 
