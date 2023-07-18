@@ -24,7 +24,7 @@ Ruby on Rails is my tool of choice, though lately I've been spending a lot of ti
 ### Figma - my newest passion
 
 - [Vizrez](https://www.figma.com/proto/5dOrzBwm0Us7V9VxpcXBJq/Resume?page-id=0%3A1&type=design&node-id=2-73&viewport=199%2C630%2C0.34&t=AeEY4ZLOqPnErdft-1&scaling=min-zoom&starting-point-node-id=2%3A73&mode=design)
-- [Paradise Nursery Mobile mockup](https://www.figma.com/proto/K7ZwllTOQOChBJJrDTXkFX/paradise-nursery?page-id=0%3A1&type=design&node-id=367-653&viewport=902%2C564%2C0.46&t=SrjgPmKU1TwBBdmh-1&scaling=scale-down&starting-point-node-id=367%3A653&mode=design)
+- [Paradise Nursery- mobile mockup](https://www.figma.com/proto/K7ZwllTOQOChBJJrDTXkFX/paradise-nursery?page-id=0%3A1&type=design&node-id=367-653&viewport=902%2C564%2C0.46&t=SrjgPmKU1TwBBdmh-1&scaling=scale-down&starting-point-node-id=367%3A653&mode=design)
 - [Macrobat - mobile mockup](https://www.figma.com/proto/NFG9Lx3VtVss8mzk9KOTkod6/macros?page-id=0%3A1&type=design&node-id=12-78&viewport=310%2C-1280%2C7.18&t=zUDrbttnzHHZtRkv-1&scaling=scale-down&starting-point-node-id=12%3A78&mode=design) 
 
 ## Things I like
