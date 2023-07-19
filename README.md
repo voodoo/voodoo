@@ -8,7 +8,7 @@
 I've been a full stack developer for more than 15 years. 
 
 - See my [html](https://voodoo.github.io/resume) resume or [PDF](https://voodoo.github.io/Resume.pdf) resume.  
-- [Cover letter - (written by AI)](https://github.com/voodoo/voodoo.github.io/wiki/Cover-letter)
+<!-- - [Cover letter - (written by AI)](https://github.com/voodoo/voodoo.github.io/wiki/Cover-letter) -->
 
 [Ruby on Rails](https://rubyonrails.org/) is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
 
