@@ -20,6 +20,7 @@ I've been a full stack developer for more than 15 years.
 - [Paradise Nursery- mobile mockup](https://www.figma.com/proto/K7ZwllTOQOChBJJrDTXkFX/paradise-nursery?page-id=0%3A1&type=design&node-id=367-653&viewport=902%2C564%2C0.46&t=SrjgPmKU1TwBBdmh-1&scaling=scale-down&starting-point-node-id=367%3A653&mode=design)
 - [Vizrez](https://www.figma.com/proto/5dOrzBwm0Us7V9VxpcXBJq/Resume?page-id=0%3A1&type=design&node-id=2-73&viewport=199%2C630%2C0.34&t=AeEY4ZLOqPnErdft-1&scaling=min-zoom&starting-point-node-id=2%3A73&mode=design)
 - [Blender and AI](https://www.figma.com/proto/OhE8UUFTVy3LcmWB99xJQb/website-design?page-id=8%3A34&node-id=125-175&mode=design&t=FzcJxIT1CbfC7Wui-1)
+- [Midjourney AI art + Krita](https://www.figma.com/proto/5PbAcNyJxuAXqBC2FHbIWK/wip?page-id=6%3A17&type=design&node-id=6-2&viewport=146%2C1470%2C0.76&t=qMVJGjm3ec4wpSHZ-1&scaling=min-zoom&starting-point-node-id=6%3A2&show-proto-sidebar=1&mode=design)
 - [Macrobat - mobile mockup](https://www.figma.com/proto/NFG9Lx3VtVss8mzk9KOTkod6/macros?page-id=0%3A1&type=design&node-id=12-78&viewport=310%2C-1280%2C7.18&t=zUDrbttnzHHZtRkv-1&scaling=scale-down&starting-point-node-id=12%3A78&mode=design) 
 
 
