@@ -19,7 +19,8 @@ I've been a full stack developer for more than 15 years.
 - [twhcv.org](https://www.twhcv.org)
 - [Vudmaska.com](https://vudmaska.com)
 - [AI](https://is-ai.framer.website)
-- 
+
+
 ### Figma
 
 - [Paradise Nursery- mobile mockup](https://www.figma.com/proto/K7ZwllTOQOChBJJrDTXkFX/paradise-nursery?page-id=0%3A1&type=design&node-id=367-653&viewport=902%2C564%2C0.46&t=SrjgPmKU1TwBBdmh-1&scaling=scale-down&starting-point-node-id=367%3A653&mode=design)
