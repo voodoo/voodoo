@@ -2,9 +2,6 @@
 # Question Everything
 -->
 
-
-## [wiki](https://github.com/voodoo/voodoo.github.io/wiki)!
-
 I've been a full stack developer for more than 15 years. 
 
 - See my
