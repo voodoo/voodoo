@@ -13,13 +13,16 @@ I've been a full stack developer for more than 15 years.
   - So I choose people instead.
   - [Looking-over-the-shoulders-of-giants.](https://github.com/voodoo/voodoo.github.io/wiki/Looking-over-the-shoulders-of-giants)
 - I've got 20 years of experience **choosing** and implementing the right tools for the job
-- Maybe you noticed the gap in my resume regarding Rails. I _blanking_ love Rails but I moved on to other things like Framer.
-- Now I'm back at it deploying a Rails app with Fly. Rails is the bees knees and I'm happy to have picked it back up.
+- Maybe you noticed the gap in my resume regarding Rails.
+- I _blanking_ love Rails but for awhile I moved on to other things like Framer.
+- Now I'm back at it deploying a Rails app with Fly.
+- Rails is the bees knees and I'm happy to have picked it back up.
 - Riding a bike and all that!
 
 
 
 - See my
+  - Rails site on [Fly.io ](https://launchy.fly.dev/)
   - website [1](https://vudmaska.com), [2](https://voodoo.github.io)
   - [html](https://voodoo.github.io/resume) resume
   - [PDF](https://voodoo.github.io/Resume.pdf) resume
