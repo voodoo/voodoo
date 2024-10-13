@@ -2,9 +2,9 @@
 # Question Everything
 -->
 
-I've been a full stack developer for more than 15 years. 
+## I've been a full stack developer for more than 15 years. 
 
-[Ruby on Rails](https://rubyonrails.org/) is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
+### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
 
 - My best asset is my **interest**
 - I seek value - "how is this technology going to help me create value for myself and others?"
