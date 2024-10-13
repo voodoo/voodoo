@@ -6,7 +6,14 @@
 
 ### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
 
-- My best asset is my **interest**
+- See my
+  - Rails site on [Fly.io ](https://launchy.fly.dev/)
+  - website [1](https://vudmaska.com), [2](https://voodoo.github.io)
+  - [html](https://voodoo.github.io/resume) resume
+  - [PDF](https://voodoo.github.io/Resume.pdf) resume
+  - To see more about me, see me [wiki](https://github.com/voodoo/voodoo.github.io/wiki).
+  
+### My best asset is my **interest**
 - I seek value - "how is this technology going to help me create value for myself and others?"
 - Finding the right tool for the job used to be the hardest part.
   - Now, choosing, the right tool is hardest because of paradox of choice.
@@ -19,14 +26,9 @@
 - Rails is the bees knees and I'm happy to have picked it back up.
 - Like Riding a bike and all that!
 
+### I wrote a book [A Caveman's Guide to Surviving the Modern Industrial Landscape](https://caveman-guide.vercel.app/)
 
 
-- See my
-  - Rails site on [Fly.io ](https://launchy.fly.dev/)
-  - website [1](https://vudmaska.com), [2](https://voodoo.github.io)
-  - [html](https://voodoo.github.io/resume) resume
-  - [PDF](https://voodoo.github.io/Resume.pdf) resume
-- To see more about me, see me [wiki](https://github.com/voodoo/voodoo.github.io/wiki).
 <!-- - [Cover letter - (written by AI)](https://github.com/voodoo/voodoo.github.io/wiki/Cover-letter) -->
 
 ### Framer - my latest passion
