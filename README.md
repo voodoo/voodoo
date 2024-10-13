@@ -14,10 +14,10 @@ I've been a full stack developer for more than 15 years.
   - [Looking-over-the-shoulders-of-giants.](https://github.com/voodoo/voodoo.github.io/wiki/Looking-over-the-shoulders-of-giants)
 - I've got 20 years of experience **choosing** and implementing the right tools for the job
 - Maybe you noticed the gap in my resume regarding Rails.
-- I _blanking_ love Rails but for awhile I moved on to other things like Framer.
+  - I _blanking_ love Rails but for awhile I moved on to other things like Framer.
 - Now I'm back at it deploying a Rails app with Fly.
 - Rails is the bees knees and I'm happy to have picked it back up.
-- Riding a bike and all that!
+- Like Riding a bike and all that!
 
 
 
