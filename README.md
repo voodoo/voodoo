@@ -4,6 +4,21 @@
 
 I've been a full stack developer for more than 15 years. 
 
+[Ruby on Rails](https://rubyonrails.org/) is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
+
+- My best asset is my **interest**
+- I seek value - "how is this technology going to help me create value for myself and others?"
+- Finding the right tool for the job used to be the hardest part.
+  - Now, choosing, the right tool is hardest because of paradox of choice.
+  - So I choose people instead.
+  - [Looking-over-the-shoulders-of-giants.](https://github.com/voodoo/voodoo.github.io/wiki/Looking-over-the-shoulders-of-giants)
+- I've got 20 years of experience **choosing** and implementing the right tools for the job
+- Maybe you noticed the gap in my resume regarding Rails. I _blanking_ love Rails but I moved on to other things like Framer.
+- Now I'm back at it deploying a Rails app with Fly. Rails is the bees knees and I'm happy to have picked it back up.
+- Riding a bike and all that!
+
+
+
 - See my
   - website [1](https://vudmaska.com), [2](https://voodoo.github.io)
   - [html](https://voodoo.github.io/resume) resume
@@ -27,16 +42,6 @@ I've been a full stack developer for more than 15 years.
 - [Macrobat - mobile mockup](https://www.figma.com/proto/NFG9Lx3VtVss8mzk9KOTkod6/macros?page-id=0%3A1&type=design&node-id=12-78&viewport=310%2C-1280%2C7.18&t=zUDrbttnzHHZtRkv-1&scaling=scale-down&starting-point-node-id=12%3A78&mode=design) 
 
 
-
-[Ruby on Rails](https://rubyonrails.org/) is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
-
-- My best asset is my **interest**
-- I seek value - "how is this technology going to help me create value for myself and others?"
-- Finding the right tool for the job used to be the hardest part.
-  - Now, choosing, the right tool is hardest because of paradox of choice.
-  - So I choose people instead.
-  - [Looking-over-the-shoulders-of-giants.](https://github.com/voodoo/voodoo.github.io/wiki/Looking-over-the-shoulders-of-giants)
-- I've got 20 years of experience **choosing** and implementing the right tools for the job
 
 
 ## Things I like
