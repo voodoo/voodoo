@@ -4,14 +4,15 @@
 
 ## I've been a full stack developer for more than 15 years. 
 
+- [html](https://voodoo.github.io/resume) resume
+- [PDF](https://voodoo.github.io/Resume.pdf) resume
+- To see more about me, me, me! see me [wiki](https://github.com/voodoo/voodoo.github.io/wiki).
+    
 ### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
 
-- See my
-  - Rails site on [Fly.io ](https://launchy.fly.dev/)
-  - website [1](https://vudmaska.com), [2](https://voodoo.github.io)
-  - [html](https://voodoo.github.io/resume) resume
-  - [PDF](https://voodoo.github.io/Resume.pdf) resume
-  - To see more about me, see me [wiki](https://github.com/voodoo/voodoo.github.io/wiki).
+- Demo Rails 8 site on [Fly.io ](https://launchy.fly.dev/)
+- website [Framer](https://vudmaska.com), [Astro](https://voodoo.github.io)
+
   
 ### My best asset is my **interest**
 - I seek value - "how is this technology going to help me create value for myself and others?"
@@ -23,15 +24,14 @@
 - Maybe you noticed the gap in my resume regarding Rails.
   - I _blanking_ love Rails but for awhile I moved on to other things like Framer.
 - Now I'm back at it deploying a Rails app with Fly.
-- Rails is the bees knees and I'm happy to have picked it back up.
-- Like Riding a bike and all that!
+- Rails is like an old friend - but with AI - omnipotent.
 
 ### I wrote a book [A Caveman's Guide to Surviving the Modern Industrial Landscape](https://caveman-guide.vercel.app/)
 
 
 <!-- - [Cover letter - (written by AI)](https://github.com/voodoo/voodoo.github.io/wiki/Cover-letter) -->
 
-### Framer - my latest passion
+### Framer - my passion - he new FrontPage
 
 - [twhcv.org](https://www.twhcv.org)
 - [Vudmaska.com](https://vudmaska.com)
@@ -45,8 +45,6 @@
 - [Blender and AI](https://www.figma.com/proto/OhE8UUFTVy3LcmWB99xJQb/website-design?page-id=8%3A34&node-id=125-175&mode=design&t=FzcJxIT1CbfC7Wui-1)
 - [Midjourney AI art + Krita](https://www.figma.com/proto/5PbAcNyJxuAXqBC2FHbIWK/wip?page-id=6%3A17&type=design&node-id=6-2&viewport=146%2C1470%2C0.76&t=qMVJGjm3ec4wpSHZ-1&scaling=min-zoom&starting-point-node-id=6%3A2&show-proto-sidebar=1&mode=design)
 - [Macrobat - mobile mockup](https://www.figma.com/proto/NFG9Lx3VtVss8mzk9KOTkod6/macros?page-id=0%3A1&type=design&node-id=12-78&viewport=310%2C-1280%2C7.18&t=zUDrbttnzHHZtRkv-1&scaling=scale-down&starting-point-node-id=12%3A78&mode=design) 
-
-
 
 
 ## Things I like
