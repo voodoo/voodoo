@@ -8,7 +8,7 @@
 - [PDF](https://voodoo.github.io/Resume.pdf) resume
 - To see more about me, me, me! see me [wiki](https://github.com/voodoo/voodoo.github.io/wiki).
     
-### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice, though lately I've been spending a lot of time with AI, AI prompts and Static site generators.
+### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice
 
 - Demo Rails 8 site on [Fly.io ](https://launchy.fly.dev/)
 - website [Framer](https://vudmaska.com), [Astro](https://voodoo.github.io)
