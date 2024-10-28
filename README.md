@@ -12,7 +12,7 @@
 
 - Demo Rails 8 site on [Fly.io ](https://launchy.fly.dev/)
 - website [Framer](https://vudmaska.com), [Astro](https://voodoo.github.io)
-
+- [Contra](https://contra.com/hire/ruby-on-rails-experts)
   
 ### My best asset is my **interest**
 - I seek value - "how is this technology going to help me create value for myself and others?"
