@@ -4,8 +4,7 @@
 
 ## I've been a full stack developer for more than 15 years. 
 
-- [html](https://voodoo.github.io/resume) resume
-- [PDF](https://voodoo.github.io/Resume.pdf) resume
+- [HTML](https://voodoo.github.io/resume) [PDF](https://voodoo.github.io/Resume.pdf) resume
 - To see more about me, me, me! see me [wiki](https://github.com/voodoo/voodoo.github.io/wiki).
     
 ### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice
