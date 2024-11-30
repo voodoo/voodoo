@@ -2,7 +2,7 @@
 # Question Everything
 -->
 
-## I've been a full stack developer for more than 15 years. 
+# I've been a full stack rails developer for more than 15 years. 
 
 - [HTML](https://voodoo.github.io/resume) [PDF](https://voodoo.github.io/Resume.pdf) resume
 - To see more about me, me, me! see me [wiki](https://github.com/voodoo/voodoo.github.io/wiki).
@@ -24,11 +24,6 @@
   - I _blanking_ love Rails but for awhile I moved on to other things like Framer.
 - Now I'm back at it deploying a Rails app with Fly.
 - Rails is like an old friend - but with AI - omnipotent.
-
-### I wrote a book [A Caveman's Guide to Surviving the Modern Industrial Landscape](https://caveman-guide.vercel.app/)
-
-
-<!-- - [Cover letter - (written by AI)](https://github.com/voodoo/voodoo.github.io/wiki/Cover-letter) -->
 
 ### Framer - my passion - he new FrontPage
 
@@ -57,5 +52,8 @@
 - [Ancient history](https://en.wikipedia.org/wiki/Younger_Dryas)
 - [Solar](http://voodoo.github.io/static-solar-plan)
 - Turtles
+
+### I wrote a book [A Caveman's Guide to Surviving the Modern Industrial Landscape](https://caveman-guide.vercel.app/)
+
 
 <img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="100%" />
