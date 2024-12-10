@@ -10,9 +10,7 @@
 ### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice
 
 
-- website [Framer](https://vudmaska.com), [Astro](https://voodoo.github.io)
-- [Contra](https://contra.com/hire/ruby-on-rails-experts)
-  
+
 ### My best asset is my **interest**
 - I seek value - "how is this technology going to help me create value for myself and others?"
 - Finding the right tool for the job used to be the hardest part.
@@ -25,6 +23,11 @@
 - Now I'm back at it deploying a Rails app with Fly.
 - Rails is like an old friend - but with AI - omnipotent.
 
+### More
+- website [Framer](https://vudmaska.com), [Astro](https://voodoo.github.io)
+- [Contra](https://contra.com/hire/ruby-on-rails-experts)
+
+  
 ### Framer - a passion
 
 - [twhcv.org](https://www.twhcv.org)
