@@ -9,7 +9,7 @@
     
 ### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice
 
-- Demo Rails 8 site on [Fly.io ](https://launchy.fly.dev/)
+
 - website [Framer](https://vudmaska.com), [Astro](https://voodoo.github.io)
 - [Contra](https://contra.com/hire/ruby-on-rails-experts)
   
