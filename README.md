@@ -25,7 +25,7 @@
 - Now I'm back at it deploying a Rails app with Fly.
 - Rails is like an old friend - but with AI - omnipotent.
 
-### Framer - my passion - he new FrontPage
+### Framer - a passion
 
 - [twhcv.org](https://www.twhcv.org)
 - [Vudmaska.com](https://vudmaska.com)
