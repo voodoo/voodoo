@@ -28,7 +28,7 @@
 - [Contra](https://contra.com/hire/ruby-on-rails-experts)
 
   
-### Framer - a passion
+### Framer 
 
 - [twhcv.org](https://www.twhcv.org)
 - [Vudmaska.com](https://vudmaska.com)
