@@ -4,9 +4,15 @@
 
 # I've been a full stack rails developer for more than 15 years. 
 
-## AI Tools
+## AI  Tools - 
+I've been working a lot with AI lately like everybody else in my field. I'm conflicted about it.
+One of the things that has have left me behind is a communicating with my AI. You're now talking to your AI and I am so you're inputting with your voice rather than than text. That's a big deal all in itself.
+So I've started putting together a project called Muzzle
 
 - [Gibber](https://gibber.vercel.app/)
+- [Muzzle](https://muzzle.vercel.app)
+- [paul](https://mpaul.vercel.app)
+
 
 ## Other resources
 
@@ -16,7 +22,7 @@
 ### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice
 
 
-
+<!--
 ### My best asset is my **interest**
 - I seek value - "how is this technology going to help me create value for myself and others?"
 - Finding the right tool for the job used to be the hardest part.
@@ -65,4 +71,6 @@
 ### I wrote a book [A Caveman's Guide to Surviving the Modern Industrial Landscape](https://caveman-guide.vercel.app/)
 
 
-<img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="100%" />
+<img alt="question everything" title="question everyhing" src="https://raw.githubusercontent.com/voodoo/voodoo.github.io/main/src/assets/qe-bw.svg" width="100%" 
+
+/>
