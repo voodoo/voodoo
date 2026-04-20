@@ -14,15 +14,14 @@ So I've started putting together a project called Muzzle
 - [paul](https://mpaul.vercel.app)
 
 
-## Other resources
 
-- [HTML](https://voodoo.github.io/resume) [PDF](https://voodoo.github.io/Resume.pdf) resume
-- To see more about me, me, me! see me [wiki](https://github.com/voodoo/voodoo.github.io/wiki).
-    
 ### [Ruby on Rails](https://rubyonrails.org/) is my tool of choice
 
 
 <!--
+
+- [Muzzle](https://muzzle.vercel.app)
+
 ### My best asset is my **interest**
 - I seek value - "how is this technology going to help me create value for myself and others?"
 - Finding the right tool for the job used to be the hardest part.
