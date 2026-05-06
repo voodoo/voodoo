@@ -11,7 +11,7 @@ So I've started putting together a project called Muzzle
 
 - [Gibber](https://gibber.vercel.app/)
 - [Muzzle](https://muzzle.vercel.app)
-- [paul](https://mpaul.vercel.app)
+- [paul](https://Brushedsteel.com)
 
 
 
